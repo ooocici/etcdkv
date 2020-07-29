@@ -1,4 +1,4 @@
-module github.com/marcosxz/etcdkv
+module github.com/ooocici/etcdkv
 
 go 1.14
 
